@@ -1,0 +1,14 @@
+img{
+   position: fixed;
+}
+img[alt="QR Code"] {
+   z-index: 2;
+   right: 20vw;
+   top: 10vh;
+   width: 60vw;
+}
+img[alt="Frame"] {
+   right: 5vw;
+   top: 5vh;
+   width: 90vw;
+}
